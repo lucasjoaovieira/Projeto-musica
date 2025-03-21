@@ -7,7 +7,7 @@ let audios = [
     {caminho:'musica6.mp3', legenda:'Paula Fernandes'},
     {caminho:'musica7.mp3', legenda:'Paula Fernandes'},
     {caminho:'musica8.mp3', legenda:'Paula Fernandes'},
-    {caminho:'titanic.mp3', legenda:'Titanic'},
+    {caminho:'musica9.mp3', legenda:'Titanic'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
