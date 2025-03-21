@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'musica1.mp3', legenda:'Matuto de verdade'},
-    {caminho:'musica2.mp3', legenda:'Arash'},
-    {caminho:'musica3.mp3', legenda:'Paula Fernandes'},
-    {caminho:'musica4.mp3', legenda:'Hayit'},
-    {caminho:'musica5.mp3', legenda:'Helena'},
-    {caminho:'musica6.mp3', legenda:'Paula Fernandes'},
-    {caminho:'musica7.mp3', legenda:'Paula Fernandes'},
-    {caminho:'musica8.mp3', legenda:'Paula Fernandes'},
-    {caminho:'musica9.mp3', legenda:'Titanic'},
+    {caminho:'musica1.mp3', legenda:'Saudades do tempo'},
+    {caminho:'musica2.mp3', legenda:'Boi soberano'},
+    {caminho:'musica3.mp3', legenda:'Cabeça de gelo'},
+    {caminho:'musica4.mp3', legenda:'Ceu azul'},
+    {caminho:'musica5.mp3', legenda:'Pisando descalço'},
+    {caminho:'musica6.mp3', legenda:'Presente de um beija flor'},
+    {caminho:'musica7.mp3', legenda:'Tordilho negro'},
+    {caminho:'musica8.mp3', legenda:'Um bom lugar'},
+    {caminho:'musica9.mp3', legenda:'eletronica'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
