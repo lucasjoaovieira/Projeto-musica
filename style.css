@@ -1,8 +1,9 @@
 html, body {
+    background: url('depositphotos_359966766-stock-illustration-doodle-music-notes-pattern-background.jpg');
     margin: 0;
     padding: 0;
-    background-color: #581eb5;
-}
+    background-color: #0B0B61; 
+}');
 
 .foto-container {
     width: 100%;
