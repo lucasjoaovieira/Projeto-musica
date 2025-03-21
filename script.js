@@ -4,7 +4,7 @@ let audios = [
     {caminho:'musica3.mp3', legenda:'Paula Fernandes'},
     {caminho:'musica4.mp3', legenda:'Hayit'},
     {caminho:'musica5.mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'musica6.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
